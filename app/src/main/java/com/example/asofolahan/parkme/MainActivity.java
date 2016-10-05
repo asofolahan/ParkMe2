@@ -1,4 +1,4 @@
-package com.example.asofolahan.parkme;
+package com.example.parking.parkme;
 
 import android.content.Intent;
 import android.net.Uri;
